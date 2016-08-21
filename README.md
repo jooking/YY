@@ -8,6 +8,7 @@ http://idarkside.org/docs/hacker-howto.html
 
 ##系统
 Fuchsia :Pink + Purple == Fuchsia (a new Operating System)
+https://fuchsia.googlesource.com/
 
 
 ##机器学习
