@@ -9,7 +9,7 @@ http://idarkside.org/docs/hacker-howto.html
 ##系统
 Fuchsia :Pink + Purple == Fuchsia (a new Operating System)
 https://fuchsia.googlesource.com/
-
+https://github.com/fuchsia-mirror
 
 ##机器学习
 https://github.com/torch/torch7
@@ -26,3 +26,7 @@ neural network, and energy-based models
 numeric optimization routines
 Fast and efficient GPU support
 Embeddable, with ports to iOS, Android and FPGA backends
+
+
+##android
+
